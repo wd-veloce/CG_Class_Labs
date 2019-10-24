@@ -38,7 +38,7 @@ int main(int argc, char *argv[]) {
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE );
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(500, 500);
-	glutCreateWindow("OpenGL函数图像程序");
+	glutCreateWindow("OpenGL Lab 1");
 	gluOrtho2D(-3.0f, 3.0f, -0.1f, 0.3f);
 	glutDisplayFunc(&myDisplay);
 	glutMainLoop();
