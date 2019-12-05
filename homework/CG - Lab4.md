@@ -1,4 +1,4 @@
-## Lab 4 -Animation with tweening
+## Lab 4 - Animation with tweening
 
 Transform a tree pattern to a letter "F" pattern
 

@@ -269,9 +269,6 @@ void keypress(unsigned char key, int x, int y) {
 }
 
 int main(int argc, char *argv[]) {
-	int a = 10 ^ 2;
-	printf("%d", a);
-
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE );
 	glutInitWindowPosition(100, 100);
