@@ -1,5 +1,7 @@
 ## Lab 6 - 3D model display
 
+**Lab 6 is also known as Lab9 in CG Class Labs**
+
 Polygonalize a sphere with some control arguments to specify the resolution. The result should be written to a file which can also be read for mesh display.
 
 The main cplusplus code and the content in `sphere.txt` file are given below. Please put `sphere.txt` and `main.cpp` in the same directory.
@@ -113,6 +115,8 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 ```
+
+Here is a txt file sample to create a sphere-like object.
 
 ```txt
 62 1 72
