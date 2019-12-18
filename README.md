@@ -1,4 +1,4 @@
-# CG_Class_Courseware
+# CG_Class_Labs
 
 This project is based on `OpenGL/GLUT`, since that project is not updating now, you can use `freeglut` instead. <br>
 
