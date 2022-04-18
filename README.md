@@ -1,10 +1,8 @@
 # CG_Class_Labs
 
-This project is based on `OpenGL/GLUT`, since that project is not updating now, you can use `freeglut` instead. <br>
+南开大学软件学院2019年 计算机图形学 实验课代码
 
-This project includes solutions of the homeworks in `computer graphics course` in `Software Collage, Nankai University`.<br>
-They are all written in markdown files because they didn't obey the coding standard in engineering. So please rewrite the code to obey them. (maybe I will correct them if I have time later) <br>
+使用前需要加载 `OpenGL/GLUT` 库，然而该库目前不再维护，可以使用 `freeglut` 作为替代  
+题目及代码使用markdown作为记录，需要进行调试以运行  
 
-There is also a directory includes some gardgets written in cplusplus files.<br>
-
-If you have any problem, feel free to contact me using `Issues` in github.<br>
+If you have any problem, feel free to contact me using `Issues` in github.
